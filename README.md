@@ -76,7 +76,7 @@
 	- [HTTP: Response Codes](https://dev.opera.com/articles/http-response-codes/)
 	- [On the X-Frame-Options Security Header](https://blog.mozilla.org/security/2013/12/12/on-the-x-frame-options-security-header/)
 
-* **JSt**:
+* **JS**:
 	- [Use 'let' and 'const' instead of 'var](https://evertpot.com/javascript-let-const/)
 
 * **Other**:
