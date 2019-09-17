@@ -4,11 +4,11 @@
 	- [ ] [You don't know JavaScript series, by Kyle Simpson](https://www.ebooks.com/en-ru/searchapp/searchresults.net?term=You+Don%27t+Know+JS):
 	
 		- [ ] [Up & Going](https://www.ebooks.com/en-ru/1993212/you-don-t-know-js-up-going/kyle-simpson/) ([GitHub version](https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed/getting-started/README.md))
-		- [ ] [Scope & Closures](https://www.ebooks.com/en-ru/1647631/you-don-t-know-js-scope-closures/kyle-simpson/) ([GitHub version](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures))
-		- [ ] [this & Object Prototypes](https://www.ebooks.com/en-ru/1734321/you-don-t-know-js-this-object-prototypes/kyle-simpson/) ([GitHub version](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes))
-		- [ ] [Types & Grammar](https://www.ebooks.com/en-ru/1935541/you-don-t-know-js-types-grammar/kyle-simpson/) ([GitHub version](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going))
-		- [ ] [Async & Performance](https://www.ebooks.com/en-ru/1977375/you-don-t-know-js-async-performance/kyle-simpson/) ([GitHub version](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going))
-		- [ ] [ES6 & Beyond](https://www.ebooks.com/en-ru/2481820/you-don-t-know-js-es6-beyond/kyle-simpson/) ([GitHub version](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going))
+		- [ ] [Scope & Closures](https://www.ebooks.com/en-ru/1647631/you-don-t-know-js-scope-closures/kyle-simpson/) ([GitHub version](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md))
+		- [ ] [this & Object Prototypes](https://www.ebooks.com/en-ru/1734321/you-don-t-know-js-this-object-prototypes/kyle-simpson/) ([GitHub version](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/this-object-prototypes/README.md))
+		- [ ] [Types & Grammar](https://www.ebooks.com/en-ru/1935541/you-don-t-know-js-types-grammar/kyle-simpson/) ([GitHub version](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/types-grammar/README.md))
+		- [ ] [Async & Performance](https://www.ebooks.com/en-ru/1977375/you-don-t-know-js-async-performance/kyle-simpson/) ([GitHub version](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/async-performance/README.md))
+		- [ ] [ES6 & Beyond](https://www.ebooks.com/en-ru/2481820/you-don-t-know-js-es6-beyond/kyle-simpson/) ([GitHub version](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/es-next-beyond/README.md))
 	- [ ] [Rediscovering JavaScript: Master ES6, ES7, and ES8, by Venkat Subramaniam](https://www.amazon.co.uk/Rediscovering-JavaScript-Master-ES6-ES7-ebook/dp/B07FMH7J71/)
 		
 * **Python**:
